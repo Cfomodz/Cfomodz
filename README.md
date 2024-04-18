@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Cfomodz
-- 👀 I’m interested in hardware hacking, open source projects that help people live better lives, automation, python
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ... things that automate people's lives
-- 📫 How to reach me ... comment
+<h1 align="center">Hi 👋, I'm David</h1>
+<h3 align="center">A hacker by nature, programmer by trade</h3>
+<p align="left">⚒️ I’m looking to collaborate on things that save human labor 📫 How to reach me - comment 🌱 I’m currently learning ...</p>
+<p align="center" > <img src="https://komarev.com/ghpvc/?username=cfomodz&label=Profile%20views&color=0e75b6&style=flat" alt="cfomodz" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cfomodz&show_icons=true&locale=en&layout=compact" alt="cfomodz" /></p>
 
-<!---
-Cfomodz/Cfomodz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cfomodz&show_icons=true&locale=en" alt="cfomodz" /></p>
+
+
+
+<p align="left">👀 I’m interested in:
+  <ul>
+    <li>hardware hacking,</li>
+    <li>open source projects that help people</li>
+    <li>automation,</li>
+    <li>python</li>
+    <li>breaking things</li>
+  </ul>
+</p>
