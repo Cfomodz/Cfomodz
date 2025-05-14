@@ -35,7 +35,7 @@
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://github.com/Cfomodz/object-sampling-frontend">
+      <a href="https://github.com/Cfomodz/object-scanning-frontend">
         <p>Object Scanning Frontend</p>
         <img src="https://github.com/user-attachments/assets/4e4d5194-5c61-421f-b505-e313ed416663" alt="Repo Image" style="width: 100%; border-radius: 8px;" />
       </a>
