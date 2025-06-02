@@ -46,7 +46,7 @@
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/Cfomodz/what-bot">
         <p>What Bot</p>
-        <img src="https://github.com/user-attachments/assets/fca182a0-1933-4f41-944a-5c9ff9f25aa4" alt="Robot to help Whatnot sellers icon" style="width: 100%; border-radius: 8px;" />
+        <img src="https://github.com/user-attachments/assets/b9c991ce-1a26-4023-9079-a868ab5fb22b" alt="Robot to help Whatnot sellers icon" style="width: 100%; border-radius: 8px;" />
       </a>
     </td>
     <td align="center" style="padding: 10px;">
