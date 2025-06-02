@@ -52,7 +52,7 @@
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/Cfomodz/etsy-inventory-export-tool">
         <p>Etsy Inventory Export Tool</p>
-        <img src="https://github.com/user-attachments/assets/72c128b7-3e54-4c47-b0e5-d5fbf979342c" alt="Repo Image" style="width: 100%; border-radius: 8px;" />
+        <img src="https://github.com/user-attachments/assets/351de7fc-5df9-420f-b2de-ba4f9bdd6827" alt="Repo Image" style="width: 100%; border-radius: 8px;" />
       </a>
     </td>
     <td align="center" style="padding: 10px;">
