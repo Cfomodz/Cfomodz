@@ -44,9 +44,9 @@
   </tr>
   <tr>
     <td align="center" style="padding: 10px;">
-      <a href="https://github.com/Cfomodz/what-bot">
-        <p>What Bot</p>
-        <img src="https://github.com/user-attachments/assets/b9c991ce-1a26-4023-9079-a868ab5fb22b" alt="Robot to help Whatnot sellers icon" style="width: 100%; border-radius: 8px;" />
+      <a href="https://github.com/Cfomodz/dmarket_bot">
+        <p>Free DMarket Bot</p>
+        <img src="https://github.com/user-attachments/assets/ae548464-028b-4c27-8e04-5b706d2f4ef1" alt="Robot to help Whatnot sellers icon" style="width: 100%; border-radius: 8px;" />
       </a>
     </td>
     <td align="center" style="padding: 10px;">
