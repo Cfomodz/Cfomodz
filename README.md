@@ -9,21 +9,16 @@
   <img src="https://img.shields.io/discord/425182625032962049" alt="Discord Server" />   
 </p>  
 
-<p>
-  <img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=cfomodz&show_icons=true&locale=en&layout=compact" alt="cfomodz" />
-</p>
+<div align=center>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfomodz&layout=compact&theme=onedark" alt="cfomodz" /><br>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cfomodz&show_icons=true&theme=onedark" alt="Top Languages"/><br>
+  <br>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=cfomodz&theme=onedark" alt="GitHub Streak" /><br>
+  <br>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cfomodz&show_icons=true&locale=en" alt="cfomodz" /></p>
-
-<p align="left">👀 I'm interested in:
-  <ul>
-    <li>hardware hacking,</li>
-    <li>open source projects that help people</li>
-    <li>automation,</li>
-    <li>python</li>
-    <li>breaking things</li>
-  </ul>
-</p>
+<p align="center">👀 I'm interested in: hardware hacking | open source projects that help people | automation | breaking things</p>
 
 <h2 align="center">🚀 Source Repos you may be here to find:</h2>
 <table align="center">
