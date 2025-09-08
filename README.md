@@ -3,9 +3,9 @@
 <p align="left">⚒️ I'm looking to collaborate on things that save human labor 📫 How to reach me - comment 🌱 I'm currently creating robots </p>
 
 <p align="center" > 
-  <img src="https://img.shields.io/pypi/dm/pythonic-schwab-api" alt="Pypi Downloads" />
-  <img src="https://img.shields.io/github/stars/Cfomodz?&style=flat" alt="Github Stars" />
   <img src="https://img.shields.io/youtube/channel/views/UCV3bzYmPXnWF97aHdSCwG1A?style=flat" alt="YouTube Channel Views" />
+  <img src="https://img.shields.io/github/stars/Cfomodz?&style=flat" alt="Github Stars" />
+  <img src="https://img.shields.io/pypi/dm/pythonic-schwab-api" alt="Pypi Downloads" />
   <img src="https://img.shields.io/discord/425182625032962049" alt="Discord Server" />   
 </p>  
 
