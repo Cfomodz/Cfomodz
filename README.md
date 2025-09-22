@@ -54,8 +54,6 @@
         <img src="https://github.com/user-attachments/assets/637ef0dc-2268-4848-bd7b-1dc0eef00da2" alt="Coin Scanning Tool Icon" style="width: 100%; border-radius: 8px;" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/Patch-Code-Prosperity/Pythonic-Schwab-API">
         <p>Pythonic Schwab API</p>
