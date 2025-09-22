@@ -49,12 +49,6 @@
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://github.com/Cfomodz/etsy-inventory-export-tool">
-        <p>Etsy Inventory Export Tool</p>
-        <img src="https://github.com/user-attachments/assets/affb0fec-2c16-4fee-85ff-5ebf87dca989" alt="Etsy Listing Export Tool Icon" style="width: 100%; border-radius: 8px;" />
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
       <a href="https://github.com/Cfomodz/PCGS-slab-picture-to-listing-tool">
         <p>PCGS Slab Picture to Listing Tool</p>
         <img src="https://github.com/user-attachments/assets/637ef0dc-2268-4848-bd7b-1dc0eef00da2" alt="Coin Scanning Tool Icon" style="width: 100%; border-radius: 8px;" />
