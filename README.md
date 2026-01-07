@@ -1,25 +1,37 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A hacker by nature, programmer by trade</h3>
-<p align="left">⚒️ I'm looking to collaborate on things that save human labor 📫 How to reach me - comment 🌱 I'm currently creating robots </p>
+<h2 align="center">Hi 👋, I'm David</h1>
+
+
+
+<div align="center">
+<h1 align="center">Skool's #1 verified n8n creator community</h1>
+<a href="https://www.skool.com/n8n-automation-lab">
+  <img align="center" src="https://github.com/user-attachments/assets/f9dbafb3-cbc9-4c40-9182-75bb5027bb0a" height="200px" />
+</a>
+<br><br>
+</div>
+
 
 <p align="center" > 
   <img src="https://img.shields.io/youtube/channel/views/UCV3bzYmPXnWF97aHdSCwG1A?style=flat" alt="YouTube Channel Views" />
   <img src="https://img.shields.io/github/stars/Cfomodz?&style=flat" alt="Github Stars" />
   <img src="https://img.shields.io/discord/425182625032962049" alt="Discord Server" />   
-</p>  
+</p>
+<h3 align="center">A hacker by nature, programmer by trade</h3>
 
-<div align=center>
+<!-- <p align="left">⚒️ I'm looking to collaborate on things that save human labor 📫 How to reach me - comment 🌱 I'm currently creating robots </p> -->
+
+<!-- <div align=center>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfomodz&layout=compact&theme=onedark" alt="cfomodz" /><br>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cfomodz&show_icons=true&theme=onedark" alt="Top Languages"/><br>
   <br>
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=cfomodz&theme=onedark" alt="GitHub Streak" /><br>
   <br>
-</div>
+</div> -->
 
-<p align="center">👀 I'm interested in: hardware hacking | open source projects that help people | automation | breaking things</p>
+<!-- <p align="center">👀 I'm interested in: hardware hacking | open source projects that help people | automation | breaking things</p> -->
 
-<h2 align="center">🚀 Source Repos you may be here to find:</h2>
+<!-- <h2 align="center">🚀 Source Repos you may be here to find:</h2> -->
 <table align="center">
   <tr>
     <td align="center" style="padding: 10px;">
@@ -63,6 +75,6 @@
   </tr>
 </table>
 <h4>Featured as a top Verified Creator on n8n's official site</h4>
-<a href="https://n8n.io/workflows/4672-voice-creation-tts-sound-effects-voicechanger-and-more-elevenlabs-mcp-server/">
-<img src="https://github.com/user-attachments/assets/231016f7-4735-41d7-a057-c15fc79f770b" alt="Screenshot of Cfomodz, David Ashby, number 2 verified n8n creator on n8n.io/creators" />
+<a href="https://n8n.io/creators/">
+<img src="https://github.com/user-attachments/assets/25b7b587-a862-4a48-a8b3-3924f0ad18c4" alt="Screenshot of Cfomodz, David Ashby, top verified n8n creator on n8n.io/creators" />
 </a>
