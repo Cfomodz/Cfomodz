@@ -4,7 +4,7 @@
 
 <div align="center">
 <h1 align="center">Skool's #1 verified n8n creator community</h1>
-<a href="https://www.skool.com/n8n-automation-lab">
+<a href="https://www.vidashby.com/skool">
   <img align="center" src="https://github.com/user-attachments/assets/f9dbafb3-cbc9-4c40-9182-75bb5027bb0a" height="200px" />
 </a>
 <br><br>
